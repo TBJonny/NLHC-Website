@@ -1,1 +1,0 @@
-// Placeholder entry point for compiled React app
