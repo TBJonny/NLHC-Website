@@ -1,1 +1,1 @@
-console.log("NLHC site loaded. Customize your JavaScript here.");
+console.log("NLHC main site loaded.");
